@@ -20,14 +20,14 @@
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919699755506)
 ---
 
-- Professional Portrait Artist passionate about creating meaningful artwork
+- Professional Portrait Artist specializing in realistic artwork
 - Currently learning Web Development and improving my full-stack development skills
 - Interested in building modern, creative and impactful web applications
 - Focused on continuous growth, creativity and becoming better every single day
 - Passionate about JavaScript, React, Node.js, MongoDB, Python and modern web technologies
 - I believe consistency, hard work and creativity can turn ideas into reality
 - All of my projects are available on GitHub
-- How to reach me: darlinggiveme21@gmail.com
+- How to reach me: asjungade21@gmail.com
 - Fun fact: I love combining creativity and technology to build unique experiences
 ---
 ## Language tools:
